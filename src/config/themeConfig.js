@@ -30,3 +30,17 @@ export const themes = {
 
 
 
+//template grey and blue
+// export const themes = {
+//   primary: "#D20000",
+//   backgroundDark: "#D20000",
+//   backgroundGray: "#222222",
+//   hover: "#ED3434",
+//   active: "#990000",
+//   backgroundBlack: "#00001a",
+//   textWhite: "#ffffff",
+//     fontPrimary: `"Oxanium", Sans-serif`
+
+// };
+
+
